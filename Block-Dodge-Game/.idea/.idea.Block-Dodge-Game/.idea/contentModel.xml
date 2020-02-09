@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AddRank.cs" t="Include" />
+        <e p="Block.cs" t="Include" />
+        <e p="BlockSpawner.cs" t="Include" />
+        <e p="GameManager.cs" t="Include" />
+        <e p="Menu.cs" t="Include" />
+        <e p="Player.cs" t="Include" />
+        <e p="Score.cs" t="Include" />
+        <e p="ShowRank.cs" t="Include" />
+      </e>
+      <e p="Block-Dodge-Game.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Block-Dodge-Game.-747931929.00" t="ExcludeRecursive" />
+  </component>
+</project>

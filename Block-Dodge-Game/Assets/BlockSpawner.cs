@@ -6,9 +6,9 @@ public class BlockSpawner : MonoBehaviour {
 
 	public GameObject blockPrefab;
 
-	public float timeBetweenWaves = 1f;
+	public float timeBetweenWaves = 2f;
 
-	private float timeToSpawn = 2f;
+	private float timeToSpawn = 1f;
 
 	void Update () {
 
